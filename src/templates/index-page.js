@@ -8,6 +8,8 @@ import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
 import FullWidthImage from "../components/FullWidthImage";
 
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
   image,
